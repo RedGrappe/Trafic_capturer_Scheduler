@@ -8,4 +8,4 @@ usage: sudo python3 capturer.py
 
 you can modify line 31 and change the behavior of tcpdump and make your custom capture.
 
-tcpdump Must be installed, if not do if you have a Debian based system: sudo apt install tcpdump
+tcpdump Must be installed, if you dont,do on a Debian based system: sudo apt install tcpdump
