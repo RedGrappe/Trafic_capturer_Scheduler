@@ -1,11 +1,11 @@
 # Trafic_capturer_Scheduler
-automatic daily network trafifc headers capturer with automatic naming
+automatic daily network trafifc headers capturer with automatic naming.
 
 a daily traffic header capturer written in python,
 file name is date + time
 
 usage: sudo python3 capturer.py
 
-you can modify line 31 and change the behavior of tcpdump and make your custom capture
+you can modify line 31 and change the behavior of tcpdump and make your custom capture.
 
-tcpdump Must be installed, if not do: sudo apt install tcpdump
+tcpdump Must be installed, if not do if you have a Debian based system: sudo apt install tcpdump
